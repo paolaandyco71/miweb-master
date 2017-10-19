@@ -20,7 +20,7 @@
 
         <div id="div"></div>
         </div>
-       <?php //echo form_open("Welcome/validar")?>-->
+       <?php echo form_open("Welcome/validar")?>
       
 		<h1>Matricula</h1>
 		<fieldset id="matricula">
@@ -73,7 +73,7 @@
 			<input type="submit" name="submit" id="boton" />
 		</fieldset>
 
-	<?php //echo form close() ?
+	<?php echo form close() ?
 
 </body>
 </html>
